@@ -2,4 +2,16 @@ body {
     text-align: center;
     font-family: "Arial";
     color: deeppink;
+    margin: 0;
+}
+#contanier {
+    width: 1200px;
+    margin: 0 auto;
+}
+#cabecera {
+    background-color: #33a;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
 }
